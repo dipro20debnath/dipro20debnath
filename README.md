@@ -1,16 +1,32 @@
-## Hi there 👋
+# 🛡️ Gobindo Debnath Dipro | Cybersecurity Enthusiast
 
-<!--
-**dipro20debnath/dipro20debnath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there 👋
 
-Here are some ideas to get you started:
+I'm **Gobindo Debnath Dipro**, a passionate learner and practitioner in the field of **Cybersecurity**.  
+I love exploring vulnerabilities, building tools, and sharing what I learn along the way.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 What I'm Interested In
+- 🕵️ OSINT (Open Source Intelligence)
+- 💻 Web Application Security
+- 🔍 Bug Bounty Hunting
+- 🧰 Building Custom Security Tools
+- 🎯 Capture The Flag (CTF) Challenges
+
+---
+
+## 📚 Currently Working On
+- Python-based Recon Tools
+- TryHackMe and HackTheBox Writeups
+- Automation Scripts for Info Gathering
+
+---
+
+## 🌐 Find Me Online
+- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/gobindo-debnath-dipro-571a46268/)
+- 🎯 [TryHackMe] (https://www.tryhackme.com/p/mr1sherlock)
+
+---
+
+### 🔒 Let’s hack ethically and build securely.
