@@ -256,18 +256,6 @@ me.say_hi()
 
 ---
 
-<!-- ========== TROPHY SECTION ========== -->
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=dipro20debnath&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 <!-- ========== SKILL PROFICIENCY ========== -->
 
 ## 🎯 Skill Proficiency
