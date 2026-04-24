@@ -78,8 +78,6 @@ me.say_hi()
 
 <!-- ========== CURRENT FOCUS ========== -->
 
-<img align="right" alt="Hacking" width="300" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
-
 ### 🔭 What I'm Currently Working On
 
 - 🕵️ **OSINT & Reconnaissance** automation tools
@@ -264,27 +262,27 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=dipro20debnath&theme=tokyonight&no-frame=true&no-bg=false&column=7&margin-w=10&margin-h=10" width="95%"/>
-
-<br/>
-
-<sub><i>If trophies don't load, try refreshing — the API may take a moment</i></sub>
+[![trophy](https://github-profile-trophy.vercel.app/?username=dipro20debnath&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-<!-- ========== METRICS / EXTRA STATS ========== -->
+<!-- ========== SKILL PROFICIENCY ========== -->
 
-## 📈 Coding Activity
+## 🎯 Skill Proficiency
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=dipro20debnath&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=c9d1d9&layout=compact" width="60%" />
-
-<br/><br/>
-
-<img src="https://github-contributor-stats.vercel.app/api?username=dipro20debnath&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" width="60%" />
+| Domain | Proficiency |
+|:---|:---|
+| 🔴 Penetration Testing & Ethical Hacking | ![](https://img.shields.io/badge/█████████░-90%25-FF6633?style=flat-square) |
+| 🔵 Network Security (CCNA) | ![](https://img.shields.io/badge/████████░░-85%25-1BA0D7?style=flat-square) |
+| 🟣 Threat Intelligence & OSINT | ![](https://img.shields.io/badge/████████░░-80%25-8B5CF6?style=flat-square) |
+| 🟢 Web Application Security | ![](https://img.shields.io/badge/████████░░-85%25-06D6A0?style=flat-square) |
+| 🟡 Python Scripting & Automation | ![](https://img.shields.io/badge/███████░░░-75%25-F59E0B?style=flat-square) |
+| 🔵 CTF & Competitive Hacking | ![](https://img.shields.io/badge/████████░░-85%25-00D4FF?style=flat-square) |
+| ⚪ Cloud Security (AWS/Azure) | ![](https://img.shields.io/badge/█████░░░░░-50%25-C0C0C0?style=flat-square) |
 
 </div>
 
