@@ -78,7 +78,7 @@ me.say_hi()
 
 <!-- ========== CURRENT FOCUS ========== -->
 
-<img align="right" alt="Hacking" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+<img align="right" alt="Hacking" width="300" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
 
 ### 🔭 What I'm Currently Working On
 
@@ -160,24 +160,24 @@ me.say_hi()
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-trophy-achievements-flaticons-flat-flat-icons.png" width="50"/><br/>
+<br/><p align="center"><img src="https://img.shields.io/badge/🏆-FFD700?style=for-the-badge" width="60"/></p>
 <b>National Cybersecurity<br/>Award 2023</b><br/>
-<sub>Bangabandhu National Skills<br/>Competition — NSDA</sub>
+<sub>Bangabandhu National Skills<br/>Competition — NSDA</sub><br/><br/>
 </td>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-medal-achievements-flaticons-flat-flat-icons-2.png" width="50"/><br/>
+<br/><p align="center"><img src="https://img.shields.io/badge/🥇-C0C0C0?style=for-the-badge" width="60"/></p>
 <b>Best Performer<br/>of 2024</b><br/>
-<sub>Creative IT Institute<br/>Cybersecurity Department</sub>
+<sub>Creative IT Institute<br/>Cybersecurity Department</sub><br/><br/>
 </td>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-target-achievements-flaticons-flat-flat-icons.png" width="50"/><br/>
+<br/><p align="center"><img src="https://img.shields.io/badge/🎯-FF6633?style=for-the-badge" width="60"/></p>
 <b>Top 5 — National<br/>CTF Division</b><br/>
-<sub>Capture The Flag<br/>NSDA 2023</sub>
+<sub>Capture The Flag<br/>NSDA 2023</sub><br/><br/>
 </td>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-award-achievements-flaticons-flat-flat-icons.png" width="50"/><br/>
+<br/><p align="center"><img src="https://img.shields.io/badge/🏅-4169E1?style=for-the-badge" width="60"/></p>
 <b>ICT Olympiad<br/>Winner</b><br/>
-<sub>Selection Round<br/>Season 2 — Bangladesh</sub>
+<sub>Selection Round<br/>Season 2 — Bangladesh</sub><br/><br/>
 </td>
 </tr>
 </table>
@@ -264,25 +264,27 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=dipro20debnath&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" width="95%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=dipro20debnath&theme=tokyonight&no-frame=true&no-bg=false&column=7&margin-w=10&margin-h=10" width="95%"/>
+
+<br/>
+
+<sub><i>If trophies don't load, try refreshing — the API may take a moment</i></sub>
 
 </div>
 
 ---
 
-<!-- ========== SNAKE ANIMATION ========== -->
+<!-- ========== METRICS / EXTRA STATS ========== -->
 
-## 🐍 Contribution Snake
+## 📈 Coding Activity
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dipro20debnath/dipro20debnath/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dipro20debnath/dipro20debnath/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/dipro20debnath/dipro20debnath/output/github-snake-dark.svg" />
-</picture>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=dipro20debnath&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=c9d1d9&layout=compact" width="60%" />
 
-> ⚡ *Set up the [Snake Action](https://github.com/Platane/snk) in your repo to generate this automatically!*
+<br/><br/>
+
+<img src="https://github-contributor-stats.vercel.app/api?username=dipro20debnath&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" width="60%" />
 
 </div>
 
